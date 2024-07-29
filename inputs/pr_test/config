@@ -1,5 +1,5 @@
 step=10
 confidence=0.95
 column=Material
-value=Charcoal
+value=charcoal
 script=radiocarbon.r
